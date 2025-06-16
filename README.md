@@ -8,7 +8,7 @@ Algorithms: BFS, DFS, Dijkstra's, Greedy Best-First Search.
 Maze Generation: Create random mazes.
 Customizable: Adjust grid size, animation speed (Slow, Normal, Fast).
 Tutorial: Onboarding for new users.
-Responsive: Works on desktop and mobile.
+
 
 🛠️ Technologies
 
