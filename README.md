@@ -22,7 +22,7 @@ Modern web browser (Chrome, Firefox, etc.)
 
 Installation
 
-Clone the repo:git clone https://github.com/your-username/pathfinding-visualizer.git
+Clone the repo
 
 Open index.html in your browser.
 
