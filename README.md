@@ -1,40 +1,44 @@
-## Pathfinding Visualizer 🚀
+# Pathfinding Visualizer 🚀
 
 An interactive web app to visualize pathfinding algorithms like BFS, DFS, Dijkstra's, and Greedy Best-First Search on a grid.
 
-✨ Features
+## ✨ Features
 
-Interactive Grid: Drag to set source/target nodes, draw walls.
-Algorithms: BFS, DFS, Dijkstra's, Greedy Best-First Search.
-Maze Generation: Create random mazes.
-Customizable: Adjust grid size, animation speed (Slow, Normal, Fast).
-Tutorial: Onboarding for new users.
+- **Interactive Grid:** Drag to set source/target nodes, draw walls.
+- **Algorithms:** BFS, DFS, Dijkstra's, Greedy Best-First Search.
+- **Maze Generation:** Create random mazes.
+- **Customizable:** Adjust grid size, animation speed (Slow, Normal, Fast).
+- **Tutorial:** Onboarding for new users.
 
 ## 🛠️ Technologies
 
-HTML5, CSS3, JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ## 🚀 Getting Started
 
 ## 🖥️ Screenshots Gallery
 
-| ![[Tutorial Mode]](/assets/screenshot1.png)
+### Tutorial Mode
 
-| ![[Dijkstra's Algorithm in Process]](/assets/image2.png)
+![screenshot1](assets/screenshot1.png)
 
-| ![[Dijkstra's Algorithm Completed]](/assets/image3.png)
+### Dijkstra's Algorithm in Process
 
----
+![image2](assets/image2.png)
 
-Prerequisites
+### Dijkstra's Algorithm Completed
 
-Modern web browser (Chrome, Firefox, etc.)
+![image3](assets/image3.png)
 
-Installation
+### Prerequisites
 
-Clone the repo
+- Modern web browser (Chrome, Firefox, etc.)
 
-Open index.html in your browser.
+### Installation
 
-Visualize: Click "Visualize" to see the path.
-Clear: Use "Clear Path" or "Clear Board".
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Czar-16/Path-Finding-Visualizer.git
+   ```
