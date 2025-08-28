@@ -18,11 +18,11 @@ HTML5, CSS3, JavaScript
 
 ## 🖥️ Screenshots Gallery
 
-| ![Tutorial Mode](/assets/screenshot1.png)
+| ![[Tutorial Mode]](/assets/screenshot1.png)
 
-| ![Dijkstra's Algorithm in Process](/assets/screenshot2.png)
+| ![[Dijkstra's Algorithm in Process]](/assets/image2.png)
 
-| ![Dijkstra's Algorithm Completed](/assets/screenshot3.png)
+| ![[Dijkstra's Algorithm Completed]](/assets/image3.png)
 
 ---
 
