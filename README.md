@@ -1,4 +1,5 @@
 ## Pathfinding Visualizer 🚀
+
 An interactive web app to visualize pathfinding algorithms like BFS, DFS, Dijkstra's, and Greedy Best-First Search on a grid.
 
 ✨ Features
@@ -9,12 +10,21 @@ Maze Generation: Create random mazes.
 Customizable: Adjust grid size, animation speed (Slow, Normal, Fast).
 Tutorial: Onboarding for new users.
 
-
 ## 🛠️ Technologies
 
 HTML5, CSS3, JavaScript
 
 ## 🚀 Getting Started
+
+## 🖥️ Screenshots Gallery
+
+| ![Tutorial Mode](/assets/screenshot1.png)
+
+| ![Dijkstra's Algorithm in Process](/assets/screenshot2.png)
+
+| ![Dijkstra's Algorithm Completed](/assets/screenshot3.png)
+
+---
 
 Prerequisites
 
